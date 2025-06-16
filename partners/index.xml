@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Partners on Netomation</title>
+    <link>https://www.netomation.eu/partners/</link>
+    <description>Recent content in Partners on Netomation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <managingEditor>hello@netomation.eu ( )</managingEditor>
+    <webMaster>hello@netomation.eu ( )</webMaster>
+    
+    <lastBuildDate>Mon, 09 Jun 2025 21:23:34 +0200</lastBuildDate><atom:link href="https://www.netomation.eu/partners/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cisco</title>
+      <link>https://www.netomation.eu/partners/cisco/</link>
+      <pubDate>Mon, 09 Jun 2025 21:23:34 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/partners/cisco/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.netomation.eu/partners/cisco/feature_cisco-icon.svg" />
+    </item>
+    
+    <item>
+      <title>Meraki</title>
+      <link>https://www.netomation.eu/partners/meraki/</link>
+      <pubDate>Mon, 09 Jun 2025 21:23:34 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/partners/meraki/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.netomation.eu/partners/meraki/feature_meraki-icon.svg" />
+    </item>
+    
+    <item>
+      <title>Fortinet</title>
+      <link>https://www.netomation.eu/partners/fortinet/</link>
+      <pubDate>Mon, 09 Jun 2025 21:23:25 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/partners/fortinet/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.netomation.eu/partners/fortinet/feature_fortinet-icon.svg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Netomation</title>
+    <link>https://www.netomation.eu/services/</link>
+    <description>Recent content in Services on Netomation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <managingEditor>hello@netomation.eu ( )</managingEditor>
+    <webMaster>hello@netomation.eu ( )</webMaster>
+    
+    <lastBuildDate>Thu, 05 Jun 2025 08:48:57 +0200</lastBuildDate><atom:link href="https://www.netomation.eu/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Easy DC Fabrics</title>
+      <link>https://www.netomation.eu/services/easy-dc-fabrics/</link>
+      <pubDate>Thu, 05 Jun 2025 08:48:57 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/services/easy-dc-fabrics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Easy Edge Networking</title>
+      <link>https://www.netomation.eu/services/easy-edge-networking/</link>
+      <pubDate>Thu, 05 Jun 2025 08:48:29 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/services/easy-edge-networking/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

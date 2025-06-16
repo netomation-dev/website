@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netomation</title>
+    <link>https://www.netomation.eu/</link>
+    <description>Recent content on Netomation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nl</language>
+    <managingEditor>hello@netomation.eu ( )</managingEditor>
+    <webMaster>hello@netomation.eu ( )</webMaster>
+    
+    <lastBuildDate>Thu, 15 May 2025 21:13:27 +0200</lastBuildDate><atom:link href="https://www.netomation.eu/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cisco</title>
+      <link>https://www.netomation.eu/partners/cisco/</link>
+      <pubDate>Mon, 09 Jun 2025 21:23:34 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/partners/cisco/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.netomation.eu/partners/cisco/feature_cisco-icon.svg" />
+    </item>
+    
+    <item>
+      <title>Meraki</title>
+      <link>https://www.netomation.eu/partners/meraki/</link>
+      <pubDate>Mon, 09 Jun 2025 21:23:34 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/partners/meraki/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.netomation.eu/partners/meraki/feature_meraki-icon.svg" />
+    </item>
+    
+    <item>
+      <title>Fortinet</title>
+      <link>https://www.netomation.eu/partners/fortinet/</link>
+      <pubDate>Mon, 09 Jun 2025 21:23:25 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/partners/fortinet/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.netomation.eu/partners/fortinet/feature_fortinet-icon.svg" />
+    </item>
+    
+    <item>
+      <title>Easy DC Fabrics</title>
+      <link>https://www.netomation.eu/services/easy-dc-fabrics/</link>
+      <pubDate>Thu, 05 Jun 2025 08:48:57 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/services/easy-dc-fabrics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Easy Edge Networking</title>
+      <link>https://www.netomation.eu/services/easy-edge-networking/</link>
+      <pubDate>Thu, 05 Jun 2025 08:48:29 +0200</pubDate>
+      <author>hello@netomation.eu ( )</author>
+      <guid>https://www.netomation.eu/services/easy-edge-networking/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
